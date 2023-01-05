@@ -13,9 +13,12 @@
 * Previous work - Multi-class classification (Only 250 data points)
 * Thoughts: could train on binary classification, then do transfer learning to train on previous dataset
 
-## Task:
+## Task
 * Previous dataset - Glaucoma Severity Detection
   * Disclaimer: Likely change
+ * Motivation: 
+   * Medical image are expensive to be labelled. 
+   * Incorporating learning methods like FSL, SemiSL, or SelfSL that is good on datasets that has few annotation can be useful.
 * Reading new papers might mean we identify new task
 
 ## State-of-the-art method
