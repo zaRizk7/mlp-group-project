@@ -18,7 +18,7 @@
   * Disclaimer: Likely change
 * Reading new papers might mean we identify new task
 
-## State-of-the-art method:
+## State-of-the-art method
 * Model Agnostic Meta Learning (Few-Shot Learning)
 * FixMatch (Semi-Supervised Learning)
 * DINO, SimCLRv2 (Self-Supervised Learning)
